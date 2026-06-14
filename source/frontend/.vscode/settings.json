@@ -1,0 +1,36 @@
+{
+    // tanstack
+    "files.watcherExclude": {
+        "**/routeTree.gen.ts": true
+    },
+    "search.exclude": {
+        "**/routeTree.gen.ts": true
+    },
+    "files.readonlyInclude": {
+        "**/routeTree.gen.ts": true
+    },
+
+    // 启用后，在按 Tab 时会展开 Emmet 缩写，即使未显示完成。禁用后，仍可通过按 TAB 接受显示的完成。
+    "emmet.triggerExpansionOnTab": true,
+
+    // prettier
+    "editor.formatOnSave": true,
+    "prettier.enable": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+    // eslint
+    "eslint.enable": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+
+    // tailwindCSS
+    "tailwindCSS.classFunctions": ["cn", "cva"],
+    "tailwindCSS.lint.suggestCanonicalClasses": "ignore",
+    "files.associations": {
+        "*.css": "tailwindcss"
+    },
+
+    // typescript
+    "js/ts.tsdk.path": "node_modules/typescript/lib"
+}

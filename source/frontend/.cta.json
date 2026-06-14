@@ -1,0 +1,25 @@
+{
+    "projectName": "frontend",
+    "mode": "file-router",
+    "typescript": true,
+    "packageManager": "npm",
+    "includeExamples": false,
+    "tailwind": true,
+    "addOnOptions": {},
+    "envVarValues": {},
+    "git": false,
+    "install": true,
+    "routerOnly": true,
+    "version": 1,
+    "addOns": true,
+    "intent": true,
+    "framework": "react",
+    "chosenAddOns": [
+        "eslint",
+        "form",
+        "shadcn",
+        "table",
+        "tanstack-query",
+        "store"
+    ]
+}
