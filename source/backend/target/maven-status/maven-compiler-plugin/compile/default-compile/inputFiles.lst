@@ -1,58 +1,58 @@
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\AISuggestionType.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\BusinessException.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\DefectStatus.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\ForbiddenException.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\GlobalExceptionHandler.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\KnowledgeStatus.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\KnowledgeType.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\Priority.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\ReviewStatus.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\UnauthorizedException.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\UserRole.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\config\DataInitializer.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\config\JwtFilter.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\config\JwtUtil.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\config\WebConfig.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\controller\AISuggestionController.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\controller\AuthController.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\controller\DefectController.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\controller\FileController.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\controller\KnowledgeController.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\DefectTriageApplication.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\AISuggestionResponse.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\AttachmentResponse.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\DefectCreateRequest.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\DefectListResponse.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\DefectResponse.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\DefectUpdateRequest.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\KnowledgeItemResponse.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\KnowledgeUpdateRequest.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\LoginRequest.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\LoginResponse.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\RegisterRequest.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\ReviewRequest.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\StateTransitionResponse.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\TransitionRequest.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\UserInfo.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\entity\AISuggestion.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\entity\Attachment.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\entity\Defect.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\entity\KnowledgeItem.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\entity\StateTransition.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\entity\User.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\repository\AISuggestionRepository.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\repository\AttachmentRepository.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\repository\DefectRepository.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\repository\KnowledgeItemRepository.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\repository\StateTransitionRepository.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\repository\UserRepository.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\service\ai\AITriggerService.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\service\ai\DeepSeekClient.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\service\ai\PromptTemplate.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\service\AISuggestionService.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\service\AuthService.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\service\DefectService.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\service\DefectValidator.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\service\FileService.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\service\KnowledgeService.java
-D:\Nexus\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\service\StateMachineService.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\AISuggestionType.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\BusinessException.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\DefectStatus.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\ForbiddenException.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\GlobalExceptionHandler.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\KnowledgeStatus.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\KnowledgeType.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\Priority.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\ReviewStatus.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\UnauthorizedException.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\common\UserRole.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\config\DataInitializer.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\config\JwtFilter.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\config\JwtUtil.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\config\WebConfig.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\controller\AISuggestionController.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\controller\AuthController.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\controller\DefectController.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\controller\FileController.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\controller\KnowledgeController.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\DefectTriageApplication.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\AISuggestionResponse.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\AttachmentResponse.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\DefectCreateRequest.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\DefectListResponse.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\DefectResponse.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\DefectUpdateRequest.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\KnowledgeItemResponse.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\KnowledgeUpdateRequest.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\LoginRequest.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\LoginResponse.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\RegisterRequest.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\ReviewRequest.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\StateTransitionResponse.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\TransitionRequest.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\dto\UserInfo.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\entity\AISuggestion.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\entity\Attachment.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\entity\Defect.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\entity\KnowledgeItem.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\entity\StateTransition.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\entity\User.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\repository\AISuggestionRepository.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\repository\AttachmentRepository.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\repository\DefectRepository.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\repository\KnowledgeItemRepository.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\repository\StateTransitionRepository.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\repository\UserRepository.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\service\ai\AITriggerService.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\service\ai\DeepSeekClient.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\service\ai\PromptTemplate.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\service\AISuggestionService.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\service\AuthService.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\service\DefectService.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\service\DefectValidator.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\service\FileService.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\service\KnowledgeService.java
+D:\Nexus\FSE\topic-claude - 副本\Candidate-Challenge-03-Defect-Triage-Package\submission-彭豪\source\backend\src\main\java\com\defecttriage\service\StateMachineService.java
